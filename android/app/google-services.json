@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "109051012827",
+    "project_id": "taska1",
+    "storage_bucket": "taska1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109051012827:android:05b6d531b5ea4b6b810efe",
+        "android_client_info": {
+          "package_name": "com.vaibhav.lakhera.flutter.custom_login_signup_page"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109051012827-tbqnajl4da1podemh6tj17dgogg7fhet.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vaibhav.lakhera.flutter.custom_login_signup_page",
+            "certificate_hash": "4cb479441d2cb8b7a23c208b0789a2a66aad1e6f"
+          }
+        },
+        {
+          "client_id": "109051012827-pkcrcd5qvlvrg4dbv9okfk43ku2ebj2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkaFl9oBIsq5ACmGxDhZS9dvA5SJ91RSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109051012827-pkcrcd5qvlvrg4dbv9okfk43ku2ebj2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
